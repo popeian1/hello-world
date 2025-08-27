@@ -1,2 +1,2 @@
 # hello-world
-Simple Hello orld Project for class
+Simple Hello world Project for class
